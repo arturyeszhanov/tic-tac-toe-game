@@ -20,6 +20,7 @@
 ▶️ [Открыть игру в браузере](https://arturyeszhanov.github.io/tic-tac-toe-game/)
 
 <br>
+
 ## 📁 Структура проекта
 <pre lang="markdown">
 tic-tac-toe-game/
